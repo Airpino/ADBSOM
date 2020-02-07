@@ -1,5 +1,7 @@
 # ADBSOM
-Code for the paper Batch Self Organizing Maps using Automatic feature weighting for Distributional Data
+Code for the paper __Batch Self Organizing maps for distributional data using adaptive distances__  
+Authors:  
+_Francisco De Carvalho, Rosanna Verde, Antonio Balzanella_
 
 ## The draft of the paper  
 The draft of the paper is here https://arxiv.org/abs/1811.06980
