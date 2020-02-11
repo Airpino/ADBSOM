@@ -1,5 +1,6 @@
 # ADBSOM
-Code for the paper __Batch Self Organizing maps for distributional data using adaptive distances__  
+Code for the paper draft __Batch Self Organizing maps for distributional data using adaptive distances__  
+(In submission)
 Authors:  
 _Francisco De Carvalho, Rosanna Verde, Antonio Balzanella_
 
