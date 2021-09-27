@@ -2,7 +2,7 @@
 Code for the paper draft __Batch Self Organizing maps for distributional data using adaptive distances__  
 (In submission)
 Authors:  
-_Francisco De Carvalho, Rosanna Verde, Antonio Balzanella_
+_Francisco De Carvalho, Antonio Irpino, Rosanna Verde, Antonio Balzanella_
 
 ## The draft of the paper  
 The draft of the paper is available here https://arxiv.org/abs/1811.06980
