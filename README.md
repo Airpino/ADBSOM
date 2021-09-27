@@ -1,4 +1,7 @@
 # ADBSOM
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5529772.svg)](https://doi.org/10.5281/zenodo.5529772)
+
+
 Code for the paper draft __Batch Self Organizing maps for distributional data using adaptive distances__  
 (In submission)
 Authors:  
